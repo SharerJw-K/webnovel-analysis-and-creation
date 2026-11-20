@@ -1,0 +1,10 @@
+# Logs & Cache
+.agent-logs/
+.workbuddy-ai/
+*.log
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
